@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class OOPSBannerApp8 {
+public class OOPSBannerApp {
 
     public static void main(String[] args) {
 
