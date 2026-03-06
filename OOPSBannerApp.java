@@ -1,7 +1,7 @@
-public class OOPSBannerApp3{
+public class OOPSBannerApp{
 	public static void main(String[]args){
 		System.out.println("OOPS");
-		OOPSBannerApp3 o1=new OOPSBannerApp3();
+		OOPSBannerApp o1=new OOPSBannerApp();
 		o1.UC3();
 	}
 	public void UC3(){
