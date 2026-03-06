@@ -1,6 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
-public class OOPSBannerApp7 {
+public class OOPSBannerApp {
 
     // Static inner class
     static class CharacterPatternMap {
