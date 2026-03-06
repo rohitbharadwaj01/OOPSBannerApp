@@ -1,4 +1,4 @@
-public class OOPSBannerApp6 {
+public class OOPSBannerApp{
     public static void main(String[] args) {
         String[] O = getO();
         String[] P = getP();
