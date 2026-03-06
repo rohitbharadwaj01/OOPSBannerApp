@@ -1,7 +1,7 @@
-public class OOPSBannerApp5 {
+public class OOPSBannerApp{
 
     public static void main(String[] args) {
-		OOPSBannerApp5 o1=new OOPSBannerApp5();
+		OOPSBannerApp o1=new OOPSBannerApp();
 		o1.UC5();
 	}
 	public void UC5(){
